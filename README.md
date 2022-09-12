@@ -26,3 +26,4 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 | 23 |  438 | Medium       | Find All Anagrams in a String                  | Sliding Window/Two Pointer | https://leetcode.com/problems/find-all-anagrams-in-a-string/                  |
 | 24 |  424 | Medium       | Longest Repeating Character Replacement        | Sliding Window/Two Pointer | https://leetcode.com/problems/longest-repeating-character-replacement/        |
 | 25 |  1448 | Medium       | Count Good Nodes in Binary Tree        | Binary Search | https://leetcode.com/problems/count-good-nodes-in-binary-tree/        |
+| 26 |  637 | Easy       | Average of Levels in Binary Tree        | Binary Search Tree | https://leetcode.com/problems/average-of-levels-in-binary-tree/
