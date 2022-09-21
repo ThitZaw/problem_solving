@@ -28,3 +28,4 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 | 25 |  1448 | Medium       | Count Good Nodes in Binary Tree        | Binary Search | https://leetcode.com/problems/count-good-nodes-in-binary-tree/        |
 | 26 |  637 | Easy       | Average of Levels in Binary Tree        | Binary Search Tree | https://leetcode.com/problems/average-of-levels-in-binary-tree/
 | 27 |  718 | Medium       |  Maximum Length of Repeated Subarray        | Array/Sliding Window | https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+| 28 |  985 | Medium       |  Sum of Even Numbers After Queries        | Query | https://leetcode.com/problems/sum-of-even-numbers-after-queries/
