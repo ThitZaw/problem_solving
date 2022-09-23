@@ -29,3 +29,5 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 | 26 |  637 | Easy       | Average of Levels in Binary Tree        | Binary Search Tree | https://leetcode.com/problems/average-of-levels-in-binary-tree/
 | 27 |  718 | Medium       |  Maximum Length of Repeated Subarray        | Array/Sliding Window | https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 | 28 |  985 | Medium       |  Sum of Even Numbers After Queries        | Query | https://leetcode.com/problems/sum-of-even-numbers-after-queries/
+| 29 |  557 | Easy       |  Reverse Words in a String III        | String / Two Pointers | https://leetcode.com/problems/reverse-words-in-a-string-iii/
+| 30 |  1680 | Medium       |  Concatenation of Consecutive Binary Numbers        | Math / Bit Manipulation / Simulation | https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
