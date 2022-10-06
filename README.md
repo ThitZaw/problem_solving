@@ -7,3 +7,4 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 | ----------- | ----------- | ----------- | ----------- |
 |  1 | Easy         | [Two Sum](https://leetcode.com/problems/two-sum/)     | [two_sum.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/Array/two_sum.py)
 |  2 | Easy         | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                             | [best-time-to-buy-and-sell-stock.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/Array/best-time-to-buy-and-sell-stock.py)
+|  3 | Easy         | [Majority Element](https://leetcode.com/problems/majority-element/)                             | [majority-element.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/Array/majority-element.py)
