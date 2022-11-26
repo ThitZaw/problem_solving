@@ -11,3 +11,9 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 |  4 | Easy         | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                             | [containsDuplicate.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/Array/containsDuplicate.py)
 |  5 | Medium         | [Insert Interval](https://leetcode.com/problems/insert-interval/)                             | [insert_interval.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/Array/insert_interval.py)
 |  6 | Medium         | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                             | [productexceptself.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/Array/productexceptself.py)
+
+## Binary Search
+
+|   | Difficulty   |Name                                           |  solution
+| ----------- | ----------- | ----------- | ----------- |
+|  1 | Easy         | [Binary Search](https://leetcode.com/problems/binary-search/)     | [704_binary_search.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/binary_search/704_binary_search.py)
