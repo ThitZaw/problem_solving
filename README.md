@@ -16,5 +16,6 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 
 |   | Difficulty   |Name                                           |  solution
 | ----------- | ----------- | ----------- | ----------- |
-|  1 | Easy         | [Binary Search](https://leetcode.com/problems/binary-search/)     | [704_binary_search.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/binary_search/704_binary_search.py)
-|  2 | Easy         | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)     | [278-first_bad_version.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/binary_search/278-first_bad_version.py)
+|  1 | Easy         | [Binary Search](https://leetcode.com/problems/binary-search/)     | [704_binary_search.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/binary_search/704_binary_search.py)
+|  2 | Easy         | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)     | [278-first_bad_version.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/binary_search/278-first_bad_version.py)
+|  3 | Medium         | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)     | [33_search_in_rotated_sorted_array.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/binary_search/33_search_in_rotated_sorted_array.py)
