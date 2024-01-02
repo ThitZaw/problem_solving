@@ -25,4 +25,4 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 
 |   | Difficulty   |Name                                           |  solution
 | ----------- | ----------- | ----------- | ----------- |
-|  1 | Easy         | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)     | [704_binary_search.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/tree/226.invert-binary-tree.py)
+|  1 | Easy         | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)     | [226_invert-binary-tree.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/tree/226.invert-binary-tree.py)
