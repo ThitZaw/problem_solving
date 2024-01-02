@@ -20,3 +20,9 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 |  2 | Easy         | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)     | [278-first_bad_version.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/binary_search/278-first_bad_version.py)
 |  3 | Medium         | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)     | [33_search_in_rotated_sorted_array.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/binary_search/33_search_in_rotated_sorted_array.py)
 |  4 | Medium         | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)     | [981_time-based-key-value-store.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/binary_search/981_time-based-key-value-store.py)
+
+## Tree
+
+|   | Difficulty   |Name                                           |  solution
+| ----------- | ----------- | ----------- | ----------- |
+|  1 | Easy         | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)     | [704_binary_search.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/tree/226.invert-binary-tree.py)
