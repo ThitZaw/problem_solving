@@ -34,6 +34,7 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 | ----------- | ----------- | ----------- | ----------- |
 |  1 | Easy         | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)     | [20.valid-parentheses.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/string/20.valid-parentheses.py)
 |  2 | Easy         | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)     | [242.valid-anagram.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/string/242.valid-anagram.py)
+|  3 | Easy         | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)     | [409.longest-palindrome.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/string/409.longest-palindrome.py)
 
 ## Graph
 
