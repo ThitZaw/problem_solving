@@ -26,6 +26,8 @@ LeetCode : ![LeetCode user ThitZaw](https://img.shields.io/badge/dynamic/json?st
 |   | Difficulty   |Name                                           |  solution
 | ----------- | ----------- | ----------- | ----------- |
 |  1 | Easy         | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)     | [226_invert-binary-tree.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/tree/226.invert-binary-tree.py)
+|  2 | Easy         | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)     | [235.lowest-common-ancestor-of-a-binary-search-tree.py](https://github.com/ThitZaw/problem_solving/blob/grind_75/grind_75/tree/235.lowest-common-ancestor-of-a-binary-search-tree.py)
+
 
 
 ## String
